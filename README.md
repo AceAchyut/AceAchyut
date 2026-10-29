@@ -7,8 +7,7 @@
 
 - 🚀 **Targeting**: NLP Engineering & AI-Powered Full Stack Roles.
 - 🎓 **Academic Excellence**: 9.25 CGPA, 2nd Year CSE Student.
-- 💡 **Passion**: Building intelligent systems that solve real-world problems.
-- 🎯 **Current Focus**: Mastering GATE 2027 concepts and advanced Data Structures in Java.
+- 💡 **Passion**: Building intelligent systems that solve real-world problems
 
 ---
 
